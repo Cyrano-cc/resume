@@ -1,0 +1,41 @@
+body {
+    background-color: lavender;
+    width: 1200px auto;
+    background-image: url(img/glitter-golden-bokeh-lights-scaled.jpeg);
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+h1{
+  text-align: center;
+  font-family: "Italianno", cursive;
+  color: darkblue;
+  font-size: 300%;
+}
+
+.edu-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.edu-img {
+  width: 300px;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-radius: 8px;
+}
+
+.edu-text {
+  max-width: 800px;
+}
+
+.edu-text h4 {
+  margin: 0;
+  font-size: 150%;
+}
+
+.edu-text p {
+  margin: 5px 0 10px;
+}

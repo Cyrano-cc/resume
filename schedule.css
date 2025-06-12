@@ -1,0 +1,24 @@
+.classtable {
+    width: 100%;
+    margin-bottom: 30px;
+    border: 2px solid #f6bb9e;
+    border-collapse: collapse;
+}
+
+.classtable th {
+    width: 10em;
+    background-color: #cc9ef7;
+    text-align: center;
+    padding: 20px;
+}
+
+.classtable td {
+    width: 10em;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 15px;
+}
+
+.classtable caption {
+    font-size: 100%;
+}

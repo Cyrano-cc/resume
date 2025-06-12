@@ -1,0 +1,35 @@
+body {
+    background-color: lavender;
+    width: 1200px auto;
+    background-image: url(img/glitter-golden-bokeh-lights-scaled.jpeg);
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: "Italianno", cursive;
+    text-align: center;
+    font-size: 300%;
+    color: darkblue;
+    margin-top: 50px;
+}
+
+.imgL {
+    float: left;
+    margin-left: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+p {
+    float: right;
+    width: 900px;
+    font-size: 150%;
+    margin-right: 30x;
+}
+
+.imgR {
+    float: right;
+    margin-right: 50px;
+    border-radius: 10px;
+}

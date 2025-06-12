@@ -1,0 +1,71 @@
+body {
+    background-color: ghostwhite;
+    background-image: url(img/bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1700px 530px;
+}
+
+h1 {
+    width: 400px;
+    margin: 40px auto;
+    margin-top: 115px;
+    padding: 20px;
+    border: 5px inset orchid;
+    border-radius: 50%;
+    line-height: 1;
+    text-align: center;
+    font-size: 300%;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    font-size: 200%;
+}
+
+.con{
+    font-size: 150%;
+}
+
+.img {
+    border-radius: 50%;
+    float: left;
+    margin-left: 30px;
+}
+
+.motto{
+    font-size: 150%;
+}
+
+.clear {
+    clear: both;
+}
+
+#info {
+    float: right;
+    margin-right: 300px;
+}
+
+.menu li {
+    list-style: none;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(img/border.png) 30% round;
+    display: inline-block;
+    width: 150px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    font-family: "Italianno", cursive;
+    font-style: normal;
+}
+
+.menu a {
+    display: block;
+    padding: 15px;
+    background: rgb(146, 243, 230);
+    text-align: center;
+    border-radius: 8px;
+}
